@@ -1,6 +1,6 @@
 ## A Recommender System Supporting Multiple Algorithms
  
-Team members : Sewon Min, Chaofan Han
+Team members :  Xueying Li,Chaofan Han
  
 ### Project Abstract
 In the current era of information explosion, recommender systems gain more and
@@ -18,11 +18,11 @@ code implementation and compare their performance and time costs.
 ### Task Assignment:
 - Data Preprocessing (CH)
 - Data Reader (CH)
-- Content-based Recommender System (CH)
+- Content-based Recommender System (XL)
 - Collaborative Filtering (CH)
-- Weight Learned (SM)
-- Latent Factor Model (SM)
-- Bias Extension (SM)
+- Weight Learned (XL)
+- Latent Factor Model (XL)
+- Bias Extension (XL)
 
 ### Dataset Profile
 | Dataset range | Data size | Min # of reviews in each product | Min # of reviews in each user | # of unique users | # of unique items |
